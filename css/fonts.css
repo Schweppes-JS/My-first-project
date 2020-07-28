@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Asap';
+	src: url('../fonts/Asap/Asap-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Lao UI';
+	src: url('../fonts/LaoUI/LaoUI.ttf');
+}
+
+@font-face {
+	font-family: 'Segoe WP';
+	src: url('../fonts/SegoeWP/Segoe_WP.ttf');
+}
+
+@font-face {
+	font-family: 'Segoe UI Regular';
+	src: url('../fonts/SegoeUI/SegoeUI.eot');
+	src: url('../fonts/SegoeUI/SegoeUI.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/SegoeUI/SegoeUI.woff') format('woff'),
+	url('../fonts/SegoeUI/SegoeUI.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUIBold';
+	src: url(../fonts/SegoeUI_Bold/SegoeUI.ttf);
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../fonts/PTSans/ptsans.ttf') format('truetype'), 
+    url('../fonts/PTSans/ptsans.woff') format('woff'); 
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Segoe WP Light';
+	src: url(../fonts/SegoeWP_light/SegoeWP_Light.ttf);
+}
